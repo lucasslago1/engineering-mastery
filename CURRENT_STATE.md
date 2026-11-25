@@ -10,5 +10,6 @@
 - Horas registradas: nenhuma
 - Lacunas: consultar [[Knowledge Gaps]]; confirmar por avaliação
 - Bloqueios: validação da sincronização GitHub → Obsidian pendente.
+- Teste de sincronização bidirecional: confirmado pelo aluno.
 
 Atualizar ao fim de cada sessão com data, atividade concluída, evidência e próximo passo.
