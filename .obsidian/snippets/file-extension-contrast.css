@@ -1,0 +1,10 @@
+﻿body {
+  --nav-tag-color: #242424 !important;
+}
+
+.nav-file-tag {
+  color: #242424 !important;
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  opacity: 1 !important;
+}

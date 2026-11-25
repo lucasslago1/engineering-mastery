@@ -1,4 +1,7 @@
 {
   "showRibbon": false,
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "file-extension-contrast"
+  ]
 }

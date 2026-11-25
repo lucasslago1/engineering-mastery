@@ -1,5 +1,0 @@
-.nav-file-tag {
-  color: #242424 !important;
-  font-weight: 600 !important;
-  opacity: 1 !important;
-}
