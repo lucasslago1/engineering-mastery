@@ -1,13 +1,13 @@
 # Estado atual
 - Data: 2026-11-24
-- Fase: 1 — fundamentos e empregabilidade
-- Dia de formação: 1, diagnóstico inicial aguardando primeira tentativa
-- Última ação confirmada: infraestrutura validada anteriormente; direção curricular, rubrica e prioridade CineGraph aprovadas pelo aluno; [[Sprint 01]] consolidado.
-- Próxima ação: diagnóstico independente de JavaScript (escopo/hoisting/TDZ), uma questão por vez, sem consulta ou execução antes da tentativa; depois feedback e registro.
+- Fase: preparação para fase 1
+- Dia de formação: 0 — preparação; diagnóstico não iniciado por decisão do aluno.
+- Última ação: direção curricular e rubrica aprovadas; Sprint 01 consolidado; Origamid vitalício adquirido; seis livros marcados como comprados para planejamento por solicitação do aluno, pagamento/entrega ainda não confirmados. Biblioteca e contrato pedagógico atualizados.
+- Próxima ação: quando o aluno autorizar início, diagnóstico independente de JavaScript (escopo/hoisting/TDZ), uma questão por vez, sem consulta ou execução. Depois feedback, registro e seleção de aulas conforme lacunas.
+- Pendências de materiais: confirmar sumários/edições e chegada dos livros; conferir títulos de aulas Origamid antes de atribuí-las. Não impedem início.
 - Revisões pendentes: nenhuma
 - Projetos: não iniciados
-- Horas registradas: nenhuma; aguardar confirmação de início e tempos efetivos
-- Lacunas: [[Knowledge Gaps]], hipóteses ainda não confirmadas
+- Horas registradas: nenhuma
+- Lacunas: [[Knowledge Gaps]], hipóteses não confirmadas
 - Bloqueios: métricas do dashboard com dados reais ainda não validadas; confirmar visibilidade do repositório (metadados retornaram público).
-
 Atualizar ao fim de cada sessão com data, atividade concluída, evidência e próximo passo.
