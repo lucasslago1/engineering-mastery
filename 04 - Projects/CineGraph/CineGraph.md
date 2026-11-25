@@ -1,0 +1,2 @@
+# CineGraph
+Plataforma de descoberta de filmes. MVP: catálogo, busca e recomendações por conteúdo. Evolução: filtragem colaborativa, ranking híbrido, busca semântica e avaliação offline. React/TypeScript, Python, PostgreSQL como candidatos. MovieLens para avaliações; verificar licenças de dados e imagens. Comparar com baseline de popularidade e evitar vazamento entre treino e teste. Documentar decisões e publicar versão funcional.

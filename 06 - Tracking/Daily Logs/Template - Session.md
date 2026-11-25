@@ -1,0 +1,11 @@
+# Sessão
+- Data:
+- Início / pausas / fim:
+- Tempo efetivo:
+- Objetivo:
+- Fonte:
+- Tentativa independente:
+- Evidência:
+- Lacunas:
+- Revisões agendadas:
+- Próxima ação:

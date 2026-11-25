@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"p0","type":"text","text":"# Fase 1\nDias 1–30\nFundamentos e empregabilidade","x":0,"y":0,"width":370,"height":160,"color":"4"},
+		{"id":"p1","type":"text","text":"# Fase 2\nDias 31–60\nEngenharia avançada","x":420,"y":0,"width":370,"height":160,"color":"6"},
+		{"id":"p2","type":"text","text":"# Fase 3\nDias 61–90\nIA e recomendação","x":840,"y":0,"width":370,"height":160,"color":"5"},
+		{"id":"t0","type":"text","text":"## Trilhas permanentes\nLeetCode · System Design · Carreira","x":0,"y":260,"width":370,"height":140},
+		{"id":"t1","type":"text","text":"## Learning OS\nRoadmap · sessões · revisão","x":420,"y":260,"width":370,"height":140},
+		{"id":"t2","type":"text","text":"## CineGraph\nCatálogo · ranking · ML","x":840,"y":260,"width":370,"height":140}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"p0","fromSide":"right","toNode":"p1","toSide":"left"},
+		{"id":"e2","fromNode":"p1","fromSide":"right","toNode":"p2","toSide":"left"},
+		{"id":"v0","fromNode":"p0","fromSide":"bottom","toNode":"t0","toSide":"top"},
+		{"id":"v1","fromNode":"p1","fromSide":"bottom","toNode":"t1","toSide":"top"},
+		{"id":"v2","fromNode":"p2","fromSide":"bottom","toNode":"t2","toSide":"top"}
+	]
+}
