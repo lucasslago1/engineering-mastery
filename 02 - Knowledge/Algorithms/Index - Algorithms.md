@@ -9,3 +9,5 @@ Notação Big O
 - Permite que você compare o número de operações, informa o quão rapidamente um algoritmo cresce.
 - Estabelece o tempo de execução para a pior hipótese.
 - A rapidez de um algoritmo não é medida em segundos mas pelo crescimento do número de operações.
+- Complexidade temporal: como cresce a quantidade de operações?
+- Complexidade espacial: como cresce a quantidade de memória necessária?
