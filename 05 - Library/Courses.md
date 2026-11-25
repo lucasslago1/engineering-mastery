@@ -11,3 +11,6 @@
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 
 Lista preliminar; disponibilidade e sequência específica ainda não verificadas.
+
+## Sprint 01
+Verificados em 2026-11-24: [Variables](https://javascript.info/variables), [Data types](https://javascript.info/types), [Functions](https://javascript.info/function-basics), [React Quick Start](https://react.dev/learn), [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/). Sequência e complementares em [[Sprint 01]].
