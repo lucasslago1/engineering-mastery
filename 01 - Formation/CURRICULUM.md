@@ -79,3 +79,6 @@ Detalhar aulas, capítulos, exercícios e critérios antes de cada sprint. Seman
 - Prática: exercícios inéditos e aplicação em projeto
 - Avaliação: recuperação sem consulta e problema de transferência
 - Status: planejado
+
+## Detalhamento aprovado em 2026-11-24
+[[Sprint 01]] contém a sequência diária e materiais. Detalhar sprints seguintes antes de iniciar, mantendo a ordem acima. Fases 1–3: fundamentos e empregabilidade; backend e engenharia; IA aplicada. Entregas semanais: 1 catálogo React local; 2 busca assíncrona tipada; 3 funcionalidade testada; 4 defesa de arquitetura frontend e performance; 5 API persistente; 6 refatoração arquitetural; 7 worker e CI/CD; 8 design resiliente; 9 preparação de dataset; 10 recomendador por conteúdo; 11 comparação de ranking com baseline; 12 busca semântica/RAG avaliado; 13 deploy e defesa final. CineGraph é projeto longitudinal principal; Learning OS secundário. Critérios em [[Assessments]].
