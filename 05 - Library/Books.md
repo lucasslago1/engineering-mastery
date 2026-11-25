@@ -13,3 +13,6 @@
 Compra dos seis livros confirmada pelo aluno. Entrega ainda pendente de confirmação; não pressupor disponibilidade física.
 System Design Interview, Effective TypeScript, Make It Stick e Hands-On Machine Learning: adiados; usar alternativas gratuitas. Nenhuma nova compra prevista nos 90 dias, salvo necessidade demonstrada e aprovação.
 Confirmar sumários e edições físicas antes de indicar capítulos numerados ou páginas. Usar leitura seletiva, exercícios inéditos, recuperação ativa e aplicação no CineGraph. Não exigir leitura integral.
+
+## Sumário físico conferido — 2026-11-25
+Entendendo Algoritmos (Novatec, sumário fotografado): cap. 1 pp.19–38; cap. 2 memória/arrays/listas pp.39–48; cap. 3 recursão a partir de p.56; cap. 4 quicksort pp.69–90; cap. 5 hash pp.91–113; cap. 6 BFS pp.115–136; cap. 7 Dijkstra pp.137–165; cap. 8 gulosos pp.166–187; cap. 9 programação dinâmica pp.188–214; cap. 10 KNN pp.215–230; cap. 11 próximos passos pp.231–249. Sprint 01 D1 19–38 (40 min), D2 39–48 (25 min), D3 91–104 (30 min), D4 105–113 (20 min), D5–6 recuperação/prática. Tempos estimados, leitura ativa e implementação JS; respostas a partir de p.250 somente após tentativa. KNN/recomendação na fase 3. Seis livros novos com chegada estimada em cinco dias (~30/11), ainda não recebidos; confirmar sumários quando chegarem. Usar TypeScript Handbook se necessário na semana 2.
