@@ -22,3 +22,6 @@ Prática: exercícios originais do mentor antes de soluções; LeetCode 217 apó
 Correção 30%, autonomia 25%, compreensão 20%, transferência 15%, qualidade/depuração 10%. Aprovação >=80% e sem lacunas críticas nos fundamentos essenciais. Escala 0–5 permanece independente da nota percentual. Diagnóstico não tem aprovação/reprovação. Registrar evidência e ajuda recebida; rever em D+1,3,7,14,30. Avaliar retenção separadamente.
 Carreira: 60 min em cada dia de estudo, candidaturas desde o primeiro dia, priorizar Vue/Nuxt e liderança enquanto React amadurece.
 CineGraph: catálogo local com dados fictícios, componentes, busca e filtros; sem backend nesta semana. Learning OS secundário. Não duplicar Obsidian.
+
+## Integração dos materiais adquiridos
+Após diagnóstico, selecionar aulas de JavaScript ES6 da Origamid sobre declarações, tipos, funções, arrays e escopo conforme lacunas; React desde o dia 1 conforme plano, com JSX, props, listas, eventos, estado e formulários. Confirmar títulos exatos no catálogo antes de atribuir aulas. Entendendo Algoritmos: leitura dirigida de Big O, arrays e hash tables. System Design: fontes gratuitas e exercícios do plano. Livros novos não são pré-requisito para iniciar. Cada bloco deve indicar fonte, seção, duração, objetivo, exercício e avaliação. Manter ordem e rubrica aprovadas.
