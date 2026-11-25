@@ -1,13 +1,12 @@
 # Estado atual
 - Data: 2026-11-25
-- Fase: 0 — preparação para fase 1; planejamento consolidado com autorização do aluno, aguardando validação final e autorização explícita de início.
-- Dia de formação: 0; diagnóstico não iniciado.
-- Última ação: revisão pedagógica e mapeamento de Origamid JS/React/Next, leituras físicas de Entendendo Algoritmos e System Design em Sprint 01, Courses, Books e System Design. Contrato, currículo, roadmap e rubrica preservados.
-- Próxima ação: confirmar validação final e autorização de início; então registrar horário e apresentar diagnóstico independente JS escopo/hoisting/TDZ, uma questão por vez sem consulta ou execução. Selecionar aulas conforme evidência.
-- Materiais: Origamid vitalício; seis livros comprados, chegada estimada em cinco dias (~30/11), não confirmada; confirmar sumários/edições ao receber. Validar acesso/seções complementares e versões antes de atribuir. Não bloqueiam início.
-- Revisões pendentes: nenhuma
-- Projetos: não iniciados
-- Horas registradas: nenhuma
-- Lacunas: [[Knowledge Gaps]], hipóteses não confirmadas
-- Bloqueios: métricas do dashboard com dados reais ainda não validadas; confirmar visibilidade do repositório (metadados anteriores público).
-Atualizar ao fim de cada sessão com data, atividade concluída, evidência e próximo passo.
+- Fase: 1 — Sprint 01; Dia 1 em andamento, pausado às 15:09:07.
+- Última ação: concluídos JavaScript (diagnóstico, Origamid 0201 e 0210, calculateTotal e processOrder) e algoritmos (Entendendo Algoritmos pp. 19–38, busca binária assistida, debugger, Big O).
+- Próxima ação: aluno confirma retomada; registrar horário; iniciar React/CineGraph (JSX, componentes, props), selecionar aulas do Sprint 01 e preservar prática independente. Não repetir diagnóstico.
+- Restante: React/CineGraph, leitura complementar sem dupla contagem, System Design, revisão e carreira. Se necessário continuar Dia 1 em outra data, sem dobrar carga.
+- Tempo de sessão acumulado: 2h41min35s (161 min inteiros registrados; horários no diário). Pausas excluídas.
+- Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
+- Revisões: [[Spaced Repetition]]; lacunas: [[Knowledge Gaps]].
+- Projetos: não iniciados.
+- Bloqueios: dashboard com dados reais ainda não validado; visibilidade do repositório anteriormente pública.
+- Orientação do aluno: evitar baterias de testes e desvios; atividades com objetivo, tempo e evidência; encerrar diagnóstico quando suficiente.
