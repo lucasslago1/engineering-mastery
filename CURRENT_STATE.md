@@ -1,8 +1,8 @@
 # Estado atual
 - Data: 2026-11-26
-- Fase: 1 — Sprint 01; Dia 1; revisão D+1 encerrada às 15:08:29 (UTC-03) de 2026-11-26.
+- Fase: 1 — Sprint 01; Dia 1; bloco de carreira iniciado às 15:09:08 (UTC-03) de 2026-11-26.
 - Última ação: revisão D+1 concluída; busca binária independente correta por inspeção; lacunas JS e espaço permanecem.
-- Próxima ação: confirmar início do bloco de carreira (até 60 min), priorizar vagas Vue/Nuxt e liderança; depois fechamento do Dia 1.
+- Próxima ação: selecionar vagas compatíveis, analisar requisitos e realizar candidaturas direcionadas; registrar resultados e fechar Dia 1.
 - Restante: carreira e fechamento; leitura externa não confirmada.
 - Tempo de sessão acumulado: 6h49min43s (407 min inteiros nos diários); restante até 8h: 1h10min17s. Intervalos, não medida de atenção.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
