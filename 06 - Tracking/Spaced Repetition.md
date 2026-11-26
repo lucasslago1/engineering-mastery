@@ -20,8 +20,15 @@ Registrar cada revisão como tarefa com prazo. Marcar concluída somente após t
 - [ ] React JSX, componentes e props; truthy/falsy, operadores lógicos, duração e imutabilidade — prática inédita 📅 2026-12-10
 - [ ] React JSX, componentes e props; truthy/falsy, operadores lógicos, duração e imutabilidade — prática inédita 📅 2026-12-26
 
+- [ ] System Design: RNF mensuráveis, invariantes, concorrência, atomicidade e idempotência — prática inédita 📅 2026-11-27
+- [ ] System Design: RNF mensuráveis, invariantes, concorrência, atomicidade e idempotência — prática inédita 📅 2026-11-29
+- [ ] System Design: RNF mensuráveis, invariantes, concorrência, atomicidade e idempotência — prática inédita 📅 2026-12-03
+- [ ] System Design: RNF mensuráveis, invariantes, concorrência, atomicidade e idempotência — prática inédita 📅 2026-12-10
+- [ ] System Design: RNF mensuráveis, invariantes, concorrência, atomicidade e idempotência — prática inédita 📅 2026-12-26
+
 ## Histórico
 | Conceito | Data de estudo | Próxima revisão | Resultado |
 |---|---|---|---|
 | JavaScript e algoritmos | 2026-11-25 | 2026-11-26 | Revisão ainda não realizada |
 | React e operadores lógicos | 2026-11-26 | 2026-11-27 | Revisão ainda não realizada |
+| System Design | 2026-11-26 | 2026-11-27 | Revisão ainda não realizada |
