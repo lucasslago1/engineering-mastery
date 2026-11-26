@@ -1,8 +1,8 @@
 # Estado atual
-- Data: 2026-11-25
-- Fase: 1 — Sprint 01; Dia 1 em andamento, pausado às 15:09:07.
+- Data: 2026-11-26
+- Fase: 1 — Sprint 01; Dia 1 em andamento; retomado em 2026-11-26 às 09:37:42 (UTC-03), bloco 03 React/CineGraph.
 - Última ação: concluídos JavaScript (diagnóstico, Origamid 0201 e 0210, calculateTotal e processOrder) e algoritmos (Entendendo Algoritmos pp. 19–38, busca binária assistida, debugger, Big O).
-- Próxima ação: aluno confirma retomada; registrar horário; iniciar React/CineGraph (JSX, componentes, props), selecionar aulas do Sprint 01 e preservar prática independente. Não repetir diagnóstico.
+- Próxima ação: iniciar estudo dirigido React/CineGraph: JSX, componentes e props; preservar prática independente. Não repetir diagnóstico.
 - Restante: React/CineGraph, leitura complementar sem dupla contagem, System Design, revisão e carreira. Se necessário continuar Dia 1 em outra data, sem dobrar carga.
 - Tempo de sessão acumulado: 2h41min35s (161 min inteiros registrados; horários no diário). Pausas excluídas.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
