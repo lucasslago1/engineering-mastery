@@ -1,9 +1,9 @@
 # Estado atual
 - Data: 2026-11-26
-- Fase: 1 — Sprint 01; Dia 1; carreira encerrada às 15:32:33 UTC-03 de 2026-11-26.
-- Última ação: quatro candidaturas confirmadas pelo aluno; meta mínima atingida.
-- Próxima ação: fechamento do Dia 1 e preparação do Dia 2 conforme Sprint 01.
-- Restante: fechamento; leitura externa complementar não confirmada.
+- Fase: 1 — Sprint 01; Dia 1 encerrado em 26/11/2026; Dia 2 ainda não iniciado.
+- Última ação: fechamento pedagógico do Dia 1 registrado; quatro candidaturas; níveis provisórios e revisões registrados.
+- Próxima ação: após confirmação do aluno, iniciar Dia 2 com diagnóstico de tipos, igualdade, coerção e referências em JS, sem consulta; confirmar materiais conforme Sprint 01 e revisões devidas pela data.
+- Restante do Dia 1: nenhum bloco obrigatório; leitura complementar não confirmada; retenção pendente. Fechamento sem duração medida.
 - Tempo de sessão acumulado: 7h13min08s (430 min inteiros nos diários); restante até 8h: 46min52s. Intervalos, não medida de atenção.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
 - Revisões: [[Spaced Repetition]]; lacunas: [[Knowledge Gaps]].
