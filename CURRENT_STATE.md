@@ -1,10 +1,10 @@
 # Estado atual
 - Data: 2026-11-26
-- Fase: 1 — Sprint 01; Dia 1 retomado às 14:36:59 (UTC-03) de 2026-11-26; pausa 14:20:52–14:36:59.
-- Última ação: bloco 04 System Design encerrado, requisitos e prática conceitual; invariantes ainda frágeis.
-- Próxima ação: revisão espaçada D+1 de JS e algoritmos, depois carreira e fechamento.
-- Restante: revisão, carreira e leitura complementar se necessária, sem dupla contagem; leitura externa não confirmada.
-- Tempo de sessão acumulado: 6h18min13s (376 min inteiros nos diários); restante até 8h: 1h41min47s. Intervalos registrados, não medida de atenção.
+- Fase: 1 — Sprint 01; Dia 1; revisão D+1 encerrada às 15:08:29 (UTC-03) de 2026-11-26.
+- Última ação: revisão D+1 concluída; busca binária independente correta por inspeção; lacunas JS e espaço permanecem.
+- Próxima ação: confirmar início do bloco de carreira (até 60 min), priorizar vagas Vue/Nuxt e liderança; depois fechamento do Dia 1.
+- Restante: carreira e fechamento; leitura externa não confirmada.
+- Tempo de sessão acumulado: 6h49min43s (407 min inteiros nos diários); restante até 8h: 1h10min17s. Intervalos, não medida de atenção.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
 - Revisões: [[Spaced Repetition]]; lacunas: [[Knowledge Gaps]].
 - Projetos: CineGraph iniciado localmente; componentes e props implementados por relato e inspeção de código. Demais projetos não iniciados.
