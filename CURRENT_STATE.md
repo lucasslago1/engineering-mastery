@@ -1,6 +1,6 @@
 # Estado atual
 - Data: 2026-11-26
-- Fase: 1 — Sprint 01; Dia 1 em pausa desde 14:20:52 (UTC-03) de 2026-11-26.
+- Fase: 1 — Sprint 01; Dia 1 retomado às 14:36:59 (UTC-03) de 2026-11-26; pausa 14:20:52–14:36:59.
 - Última ação: bloco 04 System Design encerrado, requisitos e prática conceitual; invariantes ainda frágeis.
 - Próxima ação: revisão espaçada D+1 de JS e algoritmos, depois carreira e fechamento.
 - Restante: revisão, carreira e leitura complementar se necessária, sem dupla contagem; leitura externa não confirmada.
