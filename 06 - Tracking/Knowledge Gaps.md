@@ -16,3 +16,8 @@ Hipóteses ainda a avaliar: closures, event loop, mutabilidade, concorrência e 
 | JSX, fragments e ternário | Exercícios simples corretos | 3 provisório | Nova implementação |
 | Componentes, composição e props | Exercícios 06/07 independentes por relato; avaliação estática 92/100 no 07 | 3 provisório | Componente inédito |
 | Imutabilidade de props | Identificou pai responsável; confundiu efeito de reatribuição local com mutação compartilhada | 2 | Explicar primitivos e referências |
+| Requisitos funcionais | Classificação 6/6 e transferência para consultas | 4 provisório | Novo domínio |
+| RNF e levantamento | Métricas incompletas, boa percepção de custo e elasticidade | 3 | Definir carga, percentil e critérios |
+| Invariantes e estados | Confundiu regras operacionais com invariantes; precisou de orientação | 2 | Formular condições distintas e verificáveis |
+| Atomicidade e idempotência | Combinou UNIQUE e transação após orientação; reconheceu limite local | 3 provisório | Simular falhas e retries |
+| Condição de corrida | Diagnóstico inicial guiado; variação correta independente | 3 provisório | Simular interleaving inédito |
