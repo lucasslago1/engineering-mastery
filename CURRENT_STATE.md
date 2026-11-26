@@ -1,12 +1,12 @@
 # Estado atual
 - Data: 2026-11-26
-- Fase: 1 — Sprint 01; Dia 1 em andamento; retomado em 2026-11-26 às 09:37:42 (UTC-03), bloco 03 React/CineGraph.
-- Última ação: concluídos JavaScript (diagnóstico, Origamid 0201 e 0210, calculateTotal e processOrder) e algoritmos (Entendendo Algoritmos pp. 19–38, busca binária assistida, debugger, Big O).
-- Próxima ação: iniciar estudo dirigido React/CineGraph: JSX, componentes e props; preservar prática independente. Não repetir diagnóstico.
-- Restante: React/CineGraph, leitura complementar sem dupla contagem, System Design, revisão e carreira. Se necessário continuar Dia 1 em outra data, sem dobrar carga.
-- Tempo de sessão acumulado: 2h41min35s (161 min inteiros registrados; horários no diário). Pausas excluídas.
+- Fase: 1 — Sprint 01; Dia 1 em andamento; bloco 03 concluído, pausa para almoço iniciada em 2026-11-26 às 12:21:22 (UTC-03).
+- Última ação: React/CineGraph concluído: JSX, componentes e props; exercício 07 aprovado 92/100 por avaliação estática. JavaScript e algoritmos concluídos anteriormente.
+- Próxima ação: confirmar retomada, registrar horário; verificar leitura complementar sem dupla contagem e iniciar System Design (requisitos funcionais e não funcionais); depois revisão e carreira conforme tempo disponível. Não repetir diagnóstico.
+- Restante: leitura complementar sem dupla contagem, System Design, revisão e carreira. Se necessário continuar Dia 1 em outra data, sem dobrar carga.
+- Tempo de sessão acumulado: 5h25min15s (324 min inteiros nos diários; sem pausas informadas durante bloco 03). Almoço excluído; não medir atenção por relógio.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
 - Revisões: [[Spaced Repetition]]; lacunas: [[Knowledge Gaps]].
-- Projetos: não iniciados.
+- Projetos: CineGraph iniciado localmente; componentes e props implementados por relato e inspeção de código. Demais projetos não iniciados.
 - Bloqueios: dashboard com dados reais ainda não validado; visibilidade do repositório anteriormente pública.
 - Orientação do aluno: evitar baterias de testes e desvios; atividades com objetivo, tempo e evidência; encerrar diagnóstico quando suficiente.
