@@ -1,10 +1,10 @@
 # Estado atual
 - Data: 2026-11-26
-- Fase: 1 — Sprint 01; Dia 1; bloco de carreira iniciado às 15:09:08 (UTC-03) de 2026-11-26.
-- Última ação: revisão D+1 concluída; busca binária independente correta por inspeção; lacunas JS e espaço permanecem.
-- Próxima ação: selecionar vagas compatíveis, analisar requisitos e realizar candidaturas direcionadas; registrar resultados e fechar Dia 1.
-- Restante: carreira e fechamento; leitura externa não confirmada.
-- Tempo de sessão acumulado: 6h49min43s (407 min inteiros nos diários); restante até 8h: 1h10min17s. Intervalos, não medida de atenção.
+- Fase: 1 — Sprint 01; Dia 1; carreira encerrada às 15:32:33 UTC-03 de 2026-11-26.
+- Última ação: quatro candidaturas confirmadas pelo aluno; meta mínima atingida.
+- Próxima ação: fechamento do Dia 1 e preparação do Dia 2 conforme Sprint 01.
+- Restante: fechamento; leitura externa complementar não confirmada.
+- Tempo de sessão acumulado: 7h13min08s (430 min inteiros nos diários); restante até 8h: 46min52s. Intervalos, não medida de atenção.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
 - Revisões: [[Spaced Repetition]]; lacunas: [[Knowledge Gaps]].
 - Projetos: CineGraph iniciado localmente; componentes e props implementados por relato e inspeção de código. Demais projetos não iniciados.
