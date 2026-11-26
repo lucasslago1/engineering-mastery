@@ -1,10 +1,10 @@
 # Estado atual
 - Data: 2026-11-26
-- Fase: 1 — Sprint 01; Dia 1 retomado em 2026-11-26 às 13:27:54 (UTC-03), após almoço; pausa 12:21:22–13:27:54.
-- Última ação: React/CineGraph concluído: JSX, componentes e props; exercício 07 aprovado 92/100 por avaliação estática. JavaScript e algoritmos concluídos anteriormente.
-- Próxima ação: bloco 04 System Design, requisitos funcionais e não funcionais; leitura dirigida sem dupla contagem, depois revisão e carreira conforme tempo disponível.
-- Restante: leitura complementar sem dupla contagem, System Design, revisão e carreira. Se necessário continuar Dia 1 em outra data, sem dobrar carga.
-- Tempo de sessão acumulado: 5h25min15s (324 min inteiros nos diários; sem pausas informadas durante bloco 03). Almoço excluído; não medir atenção por relógio.
+- Fase: 1 — Sprint 01; Dia 1 em pausa desde 14:20:52 (UTC-03) de 2026-11-26.
+- Última ação: bloco 04 System Design encerrado, requisitos e prática conceitual; invariantes ainda frágeis.
+- Próxima ação: revisão espaçada D+1 de JS e algoritmos, depois carreira e fechamento.
+- Restante: revisão, carreira e leitura complementar se necessária, sem dupla contagem; leitura externa não confirmada.
+- Tempo de sessão acumulado: 6h18min13s (376 min inteiros nos diários); restante até 8h: 1h41min47s. Intervalos registrados, não medida de atenção.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
 - Revisões: [[Spaced Repetition]]; lacunas: [[Knowledge Gaps]].
 - Projetos: CineGraph iniciado localmente; componentes e props implementados por relato e inspeção de código. Demais projetos não iniciados.
