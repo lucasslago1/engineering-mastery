@@ -1,8 +1,8 @@
 # Estado atual
 - Data: 2026-11-26
-- Fase: 1 — Sprint 01; Dia 1 em andamento; bloco 03 concluído, pausa para almoço iniciada em 2026-11-26 às 12:21:22 (UTC-03).
+- Fase: 1 — Sprint 01; Dia 1 retomado em 2026-11-26 às 13:27:54 (UTC-03), após almoço; pausa 12:21:22–13:27:54.
 - Última ação: React/CineGraph concluído: JSX, componentes e props; exercício 07 aprovado 92/100 por avaliação estática. JavaScript e algoritmos concluídos anteriormente.
-- Próxima ação: confirmar retomada, registrar horário; verificar leitura complementar sem dupla contagem e iniciar System Design (requisitos funcionais e não funcionais); depois revisão e carreira conforme tempo disponível. Não repetir diagnóstico.
+- Próxima ação: bloco 04 System Design, requisitos funcionais e não funcionais; leitura dirigida sem dupla contagem, depois revisão e carreira conforme tempo disponível.
 - Restante: leitura complementar sem dupla contagem, System Design, revisão e carreira. Se necessário continuar Dia 1 em outra data, sem dobrar carga.
 - Tempo de sessão acumulado: 5h25min15s (324 min inteiros nos diários; sem pausas informadas durante bloco 03). Almoço excluído; não medir atenção por relógio.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
