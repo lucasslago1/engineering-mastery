@@ -1,8 +1,8 @@
 # Estado atual
 - Data: 2026-11-26
 - Fase: 1 — Sprint 01; Dia 1 encerrado em 26/11/2026; Dia 2 ainda não iniciado.
-- Última ação: fechamento pedagógico do Dia 1 registrado; quatro candidaturas; níveis provisórios e revisões registrados.
-- Próxima ação: após confirmação do aluno, iniciar Dia 2 com diagnóstico de tipos, igualdade, coerção e referências em JS, sem consulta; confirmar materiais conforme Sprint 01 e revisões devidas pela data.
+- Última ação: Dia 1 encerrado; revisão curricular híbrida aprovada em 26/11 após auditoria sem avaliação técnica. Progresso, quatro candidaturas, níveis provisórios e revisões preservados.
+- Próxima ação: após confirmação do aluno, iniciar Dia 2 com diagnóstico de tipos, igualdade, coerção e referências em JS, sem consulta; confirmar materiais conforme Sprint 01 e revisões devidas pela data. Em System Design, ensinar decomposição e diagramas básicos antes da prática; revisão guiada quando pré-requisitos ainda frágeis. Consultar revisão híbrida em CURRICULUM e METHODOLOGY.
 - Restante do Dia 1: nenhum bloco obrigatório; leitura complementar não confirmada; retenção pendente. Fechamento sem duração medida.
 - Tempo de sessão acumulado: 7h13min08s (430 min inteiros nos diários); restante até 8h: 46min52s. Intervalos, não medida de atenção.
 - Materiais: Origamid vitalício; seis livros comprados, chegada estimada ~30/11, não confirmada; confirmar sumários/edições ao receber.
