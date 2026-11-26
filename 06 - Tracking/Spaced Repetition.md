@@ -3,8 +3,8 @@
 ## Fila de revisões
 Registrar cada revisão como tarefa com prazo. Marcar concluída somente após tentativa e registrar resultado.
 
-- [ ] Escopo, hoisting, TDZ, referências e exceções — prática inédita 📅 2026-11-26
-- [ ] Busca binária, índices e Big O temporal/espacial — prática inédita 📅 2026-11-26
+- [x] Escopo, hoisting, TDZ, referências e exceções — prática inédita 📅 2026-11-26
+- [x] Busca binária, índices e Big O temporal/espacial — prática inédita 📅 2026-11-26
 - [ ] Escopo, hoisting, TDZ, referências e exceções — prática inédita 📅 2026-11-28
 - [ ] Busca binária, índices e Big O temporal/espacial — prática inédita 📅 2026-11-28
 - [ ] Escopo, hoisting, TDZ, referências e exceções — prática inédita 📅 2026-12-02
@@ -29,6 +29,6 @@ Registrar cada revisão como tarefa com prazo. Marcar concluída somente após t
 ## Histórico
 | Conceito | Data de estudo | Próxima revisão | Resultado |
 |---|---|---|---|
-| JavaScript e algoritmos | 2026-11-25 | 2026-11-26 | Revisão ainda não realizada |
+| JavaScript e algoritmos | 2026-11-25 | 2026-11-28 | D+1 realizada em 26/11; busca binária 98/100 estático; TDZ, referências e espaço ainda frágeis |
 | React e operadores lógicos | 2026-11-26 | 2026-11-27 | Revisão ainda não realizada |
 | System Design | 2026-11-26 | 2026-11-27 | Revisão ainda não realizada |
