@@ -56,3 +56,21 @@ Boolean("");      // false
 - Por que a string "false" é truthy?
 
 **Fonte:** [JavaScript.info — Conversões de tipo](https://javascript.info/type-conversions)
+
+## Comparações
+
+### Comparação de strings
+
+- O javascript é case sensitive ao comparar strings e segue a tabela unicode. Por exemplo, a maiúcula `A` é menor que a minúscula `a`, pois minúsculas tem um indíce maior na tabela unicode.
+
+### Comparação de diferentes tipos
+
+- Ao comparar valores de diferentes tipos o javascript converte os valores em números.
+
+```javascript
+alert('2' > 1); //true, string '2' vira number 2
+alert('01' == 1); //true, string '01' vira number 1
+```
+
+- O operador de igualdade estrita verifica a igualdade sem conversão de tipo.
+- Porque null == 0 é false se deveria converter null para 0? A verificação de igualdade para undefined e null é definida de uma forma que sem quaisquer conversões eles são iguais entre si e não são iguais a mais nada. 
