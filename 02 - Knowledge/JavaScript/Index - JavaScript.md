@@ -19,9 +19,12 @@
 - O que acontece ao acessar let antes da inicialização?
 - Qual a diferença entre escopo de função e de bloco?
 
-## Coversões de tipo
+## Conversões de tipo
 
 - undefined é NaN em conversão numérica e não 0.
+ `undefined == null` // false, null é convertido para zero mas undefined vira NaN
+
 - Qualquer string é considerada verdadeira como um valor booleano, exceto uma string vazia.
-- Diferença de truthy e falsy para true e false?
+- Diferença de truthy e falsy para true e false? true e false são valores do tipo primitivo booleano, truthy e falsy são classificações do comportamento de um valor quando avaliado em um contexto booleano.
+- Um valor truthy não precisa ser true, ele apenas se comportará como true em um contexto booleano.
 
