@@ -21,5 +21,7 @@
 
 ## Coversões de tipo
 
-- 
+- undefined é NaN em conversão numérica e não 0.
+- Qualquer string é considerada verdadeira como um valor booleano, exceto uma string vazia.
+- Diferença de truthy e falsy para true e false?
 
