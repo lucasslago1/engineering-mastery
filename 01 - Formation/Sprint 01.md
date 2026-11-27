@@ -19,7 +19,7 @@ Livro já possuído: Entendendo Algoritmos, capítulos por título (busca binár
 Prática: exercícios originais do mentor antes de soluções; LeetCode 217 após estudo de hash tables; problema de transferência diferente na avaliação. Não consultar editorial antes da tentativa.
 
 ## Avaliação
-Correção 30%, autonomia 25%, compreensão 20%, transferência 15%, qualidade/depuração 10%. Aprovação >=80% e sem lacunas críticas nos fundamentos essenciais. Escala 0–5 permanece independente da nota percentual. Diagnóstico não tem aprovação/reprovação. Registrar evidência e ajuda recebida; rever em D+1,3,7,14,30. Avaliar retenção separadamente.
+Correção funcional 25%; qualidade de código 25%; autonomia 20%; compreensão técnica 15%; transferência de conhecimento 10%; depuração 5%. Aprovação >=80% e sem lacunas críticas nos fundamentos essenciais. Escala 0–5 permanece independente da nota percentual. Diagnóstico não tem aprovação/reprovação. Registrar evidência e ajuda recebida; rever em D+1,3,7,14,30. Avaliar retenção separadamente.
 Carreira: 60 min em cada dia de estudo, candidaturas desde o primeiro dia, priorizar Vue/Nuxt e liderança enquanto React amadurece.
 CineGraph: catálogo local com dados fictícios, componentes, busca e filtros; sem backend nesta semana. Learning OS secundário. Não duplicar Obsidian.
 
