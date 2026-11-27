@@ -1,11 +1,22 @@
 # JavaScript
 
-Variáveis
+## Escopo e variáveis
 
-- Hoisting
-- Escopo
-	- Escopo de função: Variáveis declaradas dentro de funções não são acessadas fora das mesmas.
-	- Declarar variáveis sem let, const ou var fará uma variável global, isso é um erro. O 'use strict' resolve isso.
-	- Variáveis declaradas no escopo pai da função, conseguem ser acessadas pelas funções.
-	- Escopo de bloco: ocorre dentro das chaves. var vaza o bloco, let e const não.
-	- Const mantém o escopo no bloco, impede redeclaração e impede a modificação do valor da variável.
+- Escopo léxico: funções acessam variáveis dos escopos externos; o inverso não ocorre.
+- `var`: escopo de função; não respeita blocos comuns.
+- `let` e `const`: escopo de bloco.
+- `const` impede reatribuição, não mutação de objetos.
+- Atribuir a um identificador não declarado pode criar uma global em modo não estrito; em modo estrito gera ReferenceError.
+
+## Hoisting
+
+- Declarações de função podem ser chamadas antes da declaração.
+- `var` é inicializada com undefined; `let` e `const` ficam na TDZ até a inicialização.
+
+## Recuperação ativa
+
+- Por que const não torna um objeto imutável?
+- O que acontece ao acessar let antes da inicialização?
+- Qual a diferença entre escopo de função e de bloco?
+
+Fonte: Origamid — Variáveis e Escopo.
