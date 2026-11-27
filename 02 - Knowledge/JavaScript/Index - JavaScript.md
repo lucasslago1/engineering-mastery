@@ -69,9 +69,9 @@ Boolean("");      // false
 
 ### Igualdade e coerção
 
-- `===` compara sem coerção de tipos.
-- `==` pode realizar coerção, conforme os tipos envolvidos.
-- `null` e `undefined` são iguais entre si com `==`, mas não são iguais a zero.
+- **===** compara sem coerção de tipos.
+- **==** pode realizar coerção, conforme os tipos envolvidos.
+- `null` e `undefined` são iguais entre si com **==**, mas não são iguais a zero.
 - Em comparações relacionais com números, `null` é convertido em zero.
 
 ```javascript
