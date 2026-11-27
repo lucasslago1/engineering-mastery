@@ -126,3 +126,26 @@ undefined == null; // true
 - Qual a diferença entre `!` e `!!`?
 
 **Fonte:** [JavaScript.info — Operadores lógicos](https://javascript.info/logical-operators)
+
+## Referências e cópias de objetos
+
+- Uma variável que contém um objeto armazena uma referência a ele. Atribuir essa variável a outra ou passá-la como argumento copia a referência, não o objeto.
+- Alterações nas propriedades por referências compartilhadas afetam o mesmo objeto.
+- Cópia rasa: spread e `Object.assign` permitem criar um novo objeto, mas preservam as referências dos objetos aninhados.
+- Cópia profunda: `structuredClone` clona estruturas compatíveis, incluindo objetos aninhados, mas não suporta funções. Alternativas incluem implementações personalizadas e [Lodash cloneDeep](https://lodash.com/docs#cloneDeep).
+
+```javascript
+const original = { address: { city: "Recife" } };
+const shallow = { ...original };
+const deep = structuredClone(original);
+
+shallow.address === original.address; // true
+deep.address === original.address;    // false
+```
+
+**Recuperação ativa**
+- O que é copiado ao passar um objeto como argumento?
+- Por que uma cópia rasa pode permitir mutações no objeto original?
+- Quando uma cópia profunda é necessária?
+
+**Fonte:** [JavaScript.info — Referências e cópias de objetos](https://javascript.info/object-copy)
