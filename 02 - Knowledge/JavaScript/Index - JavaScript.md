@@ -74,3 +74,18 @@ alert('01' == 1); //true, string '01' vira number 1
 
 - O operador de igualdade estrita verifica a igualdade sem conversão de tipo.
 - Porque null == 0 é false se deveria converter null para 0? A verificação de igualdade para undefined e null é definida de uma forma que sem quaisquer conversões eles são iguais entre si e não são iguais a mais nada. 
+
+## Operadores lógicos
+
+- `||` retorna o primeiro valor true.
+- `&&` retorna o primeiro valor false. Se o primeiro operando for truthy, retorna o segundo operando, quando todos os valores são verdadeiros, retorna o último valor.
+
+```javascript
+alert(1 && 0); //0
+alert(1 && 5); //5
+alert(1 && 2 && 3) //3
+```
+
+- A precedência do operador AND é maior que a do operador OR.
+- `!!` converte um valor para o tipo booleano.
+- `!` converte para booleano e retorna o resultado inverso. Tem a maior precedência entre todos os operadores.
