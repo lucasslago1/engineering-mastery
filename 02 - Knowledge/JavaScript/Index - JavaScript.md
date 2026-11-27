@@ -59,33 +59,70 @@ Boolean("");      // false
 
 ## Comparações
 
-### Comparação de strings
+### Strings
 
-- O javascript é case sensitive ao comparar strings e segue a tabela unicode. Por exemplo, a maiúcula `A` é menor que a minúscula `a`, pois minúsculas tem um indíce maior na tabela unicode.
-
-### Comparação de diferentes tipos
-
-- Ao comparar valores de diferentes tipos o javascript converte os valores em números.
+- Comparações relacionais entre strings são lexicográficas, por unidades de código UTF-16, e distinguem maiúsculas de minúsculas.
 
 ```javascript
-alert('2' > 1); //true, string '2' vira number 2
-alert('01' == 1); //true, string '01' vira number 1
+"A" < "a"; // true
 ```
 
-- O operador de igualdade estrita verifica a igualdade sem conversão de tipo.
-- Porque null == 0 é false se deveria converter null para 0? A verificação de igualdade para undefined e null é definida de uma forma que sem quaisquer conversões eles são iguais entre si e não são iguais a mais nada. 
+### Igualdade e coerção
+
+- `===` compara sem coerção de tipos.
+- `==` pode realizar coerção, conforme os tipos envolvidos.
+- `null` e `undefined` são iguais entre si com `==`, mas não são iguais a zero.
+- Em comparações relacionais com números, `null` é convertido em zero.
+
+```javascript
+"2" > 1;       // true
+"01" == 1;     // true
+null == 0;     // false
+null >= 0;     // true
+undefined == null; // true
+```
+
+**Recuperação ativa**
+- Por que `null == 0` é false, mas `null >= 0` é true?
+
+**Fonte:** [JavaScript.info — Comparações](https://javascript.info/comparison)
 
 ## Operadores lógicos
 
-- `||` retorna o primeiro valor true.
-- `&&` retorna o primeiro valor false. Se o primeiro operando for truthy, retorna o segundo operando, quando todos os valores são verdadeiros, retorna o último valor.
+### OR e AND
+
+- `||`: retorna o primeiro operando truthy ou o último se todos forem falsy.
+- `&&`: retorna o primeiro operando falsy ou o último se todos forem truthy.
+- Ambos retornam operandos, não necessariamente booleanos.
 
 ```javascript
-alert(1 && 0); //0
-alert(1 && 5); //5
-alert(1 && 2 && 3) //3
+1 && 0;      // 0
+1 && 5;      // 5
+1 && 2 && 3; // 3
+0 || "Ana";  // "Ana"
 ```
 
-- A precedência do operador AND é maior que a do operador OR.
-- `!!` converte um valor para o tipo booleano.
-- `!` converte para booleano e retorna o resultado inverso. Tem a maior precedência entre todos os operadores.
+### NOT e precedência
+
+- `!`: converte para booleano e inverte o resultado.
+- `!!`: converte para booleano.
+- Entre esses operadores, a precedência é: `!`, depois `&&`, depois `||`.
+
+### Curto-circuito
+
+- A avaliação para assim que o resultado pode ser determinado; os operandos restantes não são avaliados.
+
+```javascript
+"Maria" || getName(); // não chama getName
+0 && getName();       // não chama getName
+"" || getName();      // chama getName
+```
+
+**Risco:** confundir truthy/falsy com true/false ou presumir que todas as funções de uma expressão serão executadas.
+
+**Recuperação ativa**
+- O que `||` retorna quando todos os operandos são falsy?
+- Por que `0 && getName()` não executa a função?
+- Qual a diferença entre `!` e `!!`?
+
+**Fonte:** [JavaScript.info — Operadores lógicos](https://javascript.info/logical-operators)
