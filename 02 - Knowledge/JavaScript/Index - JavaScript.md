@@ -19,4 +19,7 @@
 - O que acontece ao acessar let antes da inicialização?
 - Qual a diferença entre escopo de função e de bloco?
 
-Fonte: Origamid — Variáveis e Escopo.
+## Coversões de tipo
+
+- 
+
